@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32138854427",
+    "project_id": "mobie-2016b",
+    "storage_bucket": "mobie-2016b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32138854427:android:135c5249e708f1bdc8f8be",
+        "android_client_info": {
+          "package_name": "com.mobie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32138854427-ac55lrv132216pb96knsuq77sbd5ct7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArgU7T3t9Bn3Do1As5ov26ru7TopSC2-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32138854427-ac55lrv132216pb96knsuq77sbd5ct7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
